@@ -1,4 +1,4 @@
-# sample-gui-app-using-pyqt
+# good sample-gui-app-using-pyqt
 This is a small gui desktop application developed in Python language using PyQt framework.
 Requirements-
 1. Python 2.7
